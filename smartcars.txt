@@ -1,0 +1,440 @@
+Car ID: cqusn1A2b3C4d5E
+Chassis：
+	Chassis ID: dpEQNAORDB
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 张伟
+--------------------------
+Car ID: cqusn6F7g8H9i0J1K
+Chassis：
+	Chassis ID: dpJHTPRSJO
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 李娜
+--------------------------
+Car ID: cqusn2L3m4N5o6P7Q
+Chassis：
+	Chassis ID: dpJWOWQURU
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 王芳
+--------------------------
+Car ID: cqusn8R9s0T1u2V3W
+Chassis：
+	Chassis ID: dpAVCYKBMB
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 赵雷
+--------------------------
+Car ID: cqusn0D1e2F3g4H5i
+Chassis：
+	Chassis ID: dpGRNDYYOX
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 刘洋
+--------------------------
+Car ID: cqusn6J7k8L9m0N1o
+Chassis：
+	Chassis ID: dpVVMCNFJV
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 陈静
+--------------------------
+Car ID: cqusn2P3q4R5s6T7u
+Chassis：
+	Chassis ID: dpZWYEURUM
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 杨明
+--------------------------
+Car ID: cqusn8V9w0X1y2Z3a
+Chassis：
+	Chassis ID: dpWSQGBTKK
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 周敏
+--------------------------
+Car ID: cqusn4B5c6D7e8F9g0H
+Chassis：
+	Chassis ID: dpRZLBFGEA
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 吴强
+--------------------------
+Car ID: cqusn5G6h7J8k9L0m1N
+Chassis：
+	Chassis ID: dpVHETJEME
+	Chassis model: SCOUT MINI
+	Chassis wheelBase: 451
+	Chassis trackWidth: 490
+	Chassis groundClearance: 115
+	Chassis turningRadius: 0
+	Chassis driveType: 四轮四驱
+	Chassis maxRange: 10
+AGX 套件：
+	AGX Model: AGX Xavier
+	AGX AI: 32
+	AGX CUDA: 512
+	AGX tensorCores: 64
+	AGX memory: 32
+	AGX storage: 32
+DualCamera：
+	Camera Model: RealSense D435i
+	Camera cameraType: D430
+	Camera resolutionWidth: 1920
+	Camera resolutionHeight: 1080
+	Camera rgbFrameRate: 30
+	Camera fovHorizontal: 87
+	Camera depthFrameRate: 90
+	Camera fovVertical: 58
+Lidar Model: 
+	Lidar Model: RS-Helios-16p
+	Lidar channelCount: 16
+	Lidar range: 100
+	Lidar powerConsumption: 8
+Gyroscope: 
+Gyroscope Model: CH110
+Gyroscope manufacturer: NXP
+Display: 11.6
+	Display Size: 11.6
+	Display model: 11.6
+	Battery:
+	Battery Voltage: 24V
+	Battery capacity: 15Ah
+	Battery supplyVoltage: 24V
+	Battery chargeTime: 2
+Student Name: 郑洁
+--------------------------
